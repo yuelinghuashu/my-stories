@@ -1,0 +1,10 @@
+{
+  "title": "故事标题",
+  "type": "原创",
+  "wordCount": "",
+  "status": "已完结 / 连载中",
+  "isMultiChapter": false,
+  "summary": "一句话概括故事核心冲突和结局。",
+  "created": "YYYY-MM-DD",
+  "updated": "YYYY-MM-DD"
+}
