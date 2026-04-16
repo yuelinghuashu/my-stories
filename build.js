@@ -50,7 +50,23 @@ function calculateWordCount(folderPath) {
 function renderTemplate(tmpl, data) {
   let result = tmpl
 
-  // 处理 {{#if key}}...{{else}}...{{/if}}
+  // 先处理带 else 的 eq 条件块
+  result = result.replace(
+    /\{\{#if \(eq "([^"]+)" "([^"]+)"\)\}\}([\s\S]*?)\{\{else\}\}([\s\S]*?)\{\{\/if\}\}/g,
+    (match, key, value, ifContent, elseContent) => {
+      return data[key] === value ? ifContent : elseContent
+    },
+  )
+
+  // 处理不带 else 的 eq 条件块
+  result = result.replace(
+    /\{\{#if \(eq "([^"]+)" "([^"]+)"\)\}\}([\s\S]*?)\{\{\/if\}\}/g,
+    (match, key, value, content) => {
+      return data[key] === value ? content : ""
+    },
+  )
+
+  // 处理带 else 的普通条件块 {{#if key}}...{{else}}...{{/if}}
   result = result.replace(
     /\{\{#if ([^}]+)\}\}([\s\S]*?)\{\{else\}\}([\s\S]*?)\{\{\/if\}\}/g,
     (match, key, ifContent, elseContent) => {
@@ -58,19 +74,11 @@ function renderTemplate(tmpl, data) {
     },
   )
 
-  // 处理条件块 {{#if key}}...{{/if}}（无 else）
+  // 处理不带 else 的普通条件块 {{#if key}}...{{/if}}
   result = result.replace(
     /\{\{#if ([^}]+)\}\}([\s\S]*?)\{\{\/if\}\}/g,
     (match, key, content) => {
       return data[key] ? content : ""
-    },
-  )
-
-  // 处理条件相等 {{#if (eq key "value")}}...{{/if}}
-  result = result.replace(
-    /\{\{#if \(eq "([^"]+)" "([^"]+)"\)\}\}([\s\S]*?)\{\{\/if\}\}/g,
-    (match, key, value, content) => {
-      return data[key] === value ? content : ""
     },
   )
 
