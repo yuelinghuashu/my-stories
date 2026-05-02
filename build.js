@@ -133,7 +133,7 @@ for (const folder of storyFolders) {
     type: config.type,
     wordCount: config.wordCount,
     summary:
-      config.summary && config.summary.length > 80
+      config.summary && config.summary.length > 100
         ? config.summary.slice(0, 80) + "..."
         : config.summary || "无简介",
   })
@@ -161,8 +161,8 @@ rootReadme += `
 <details>
 <summary>如果你喜欢我的创作，可以请我喝杯咖啡。</summary>
 
-<img src="./assets/wechat.jpg" width="200" height="280" alt="微信收款码" />
-<img src="./assets/alipay.jpg" width="200" height="280" alt="支付宝收款码" />
+<img src="./assets/ali-pay.jpg" width="200" height="280" alt="支付宝收款码" />
+<img src="./assets/wechat-pay.jpg" width="200" height="280" alt="微信收款码" />
 
 </details>
 `
