@@ -1,8 +1,10 @@
 {
   "title": "白天",
-  "type": "原创",
-  "status": "连载中",
+  "type": "original",
+  "status": "ongoing",
   "isMultiChapter": true,
+  "language": "zh",
   "summary": "一个对气味敏感的死宅，拿到sudo权限后清垃圾、扛核弹、格式地球、淡青色装修。世界疯了——信徒喊“圆”，商人卖含片，克隆人在废墟里立了一块木牌：等待，并心怀希望。他看了一眼，关掉窗帘。〇。",
-  "created": "2026-05-14"
+  "created": "2026-05-14",
+  "wordCount": "约 38 千字"
 }

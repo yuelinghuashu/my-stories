@@ -1,15 +1,24 @@
 {
   "name": "my-stories",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "个人故事创作仓库",
   "type": "module",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node ./build.js"
+    "build": "story build",
+    "validate": "story build --validate-only",
+    "new": "story new",
+    "epub": "story epub"
   },
-  "keywords": [],
+  "keywords": [
+    "stories",
+    "fiction",
+    "writing"
+  ],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.21.0"
+  "packageManager": "pnpm@10.21.0",
+  "dependencies": {
+    "story-cli": "file:../story-cli"
+  }
 }

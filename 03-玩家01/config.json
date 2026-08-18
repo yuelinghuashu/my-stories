@@ -1,8 +1,10 @@
 {
   "title": "玩家01",
-  "type": "原创",
-  "status": "已完结",
+  "type": "original",
+  "status": "completed",
   "isMultiChapter": true,
+  "language": "zh",
   "summary": "陈末用模型算出：人类效率比六千年前的乌鲁克还低48%。他建了一座基地，倒退着生活。十年后，效率88%。外面的人还在编造他和恩奇都的绯闻。他低下头，继续刻泥板。",
-  "created": "2026-01-15"
+  "created": "2026-01-15",
+  "wordCount": "约 12 千字"
 }
