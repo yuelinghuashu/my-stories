@@ -18,7 +18,5 @@
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.21.0",
-  "dependencies": {
-    "story-cli": "file:../story-cli"
-  }
+  "dependencies": {}
 }
