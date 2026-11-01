@@ -1,0 +1,482 @@
+{
+  "version": 1,
+  "cliVersion": "1.5.2",
+  "stories": {
+    "01-兄与弟": {
+      "fp": "5a693bdd27a3608b77b2be559e66ec3773fe2298",
+      "data": {
+        "lang": "zh",
+        "rawWordCount": 6631,
+        "wordCount": "约 7 千字",
+        "chapters": [
+          {
+            "title": "【开场】",
+            "wordCount": "约 392 字"
+          },
+          {
+            "title": "【第一章·信】",
+            "wordCount": "约 261 字"
+          },
+          {
+            "title": "【第二章·刀】",
+            "wordCount": "约 542 字"
+          },
+          {
+            "title": "【第三章·成】",
+            "wordCount": "约 461 字"
+          },
+          {
+            "title": "【第四章·坠】",
+            "wordCount": "约 345 字"
+          },
+          {
+            "title": "【第五章·疯】",
+            "wordCount": "约 1 千字"
+          },
+          {
+            "title": "【第六章·名】",
+            "wordCount": "约 575 字"
+          },
+          {
+            "title": "【现在】",
+            "wordCount": "约 215 字"
+          },
+          {
+            "title": "【第七章·醒】",
+            "wordCount": "约 593 字"
+          },
+          {
+            "title": "【现在】",
+            "wordCount": "约 134 字"
+          },
+          {
+            "title": "【第八章·见】",
+            "wordCount": "约 2 千字"
+          },
+          {
+            "title": "【尾声】",
+            "wordCount": "约 55 字"
+          }
+        ],
+        "typeDisplay": "原创",
+        "statusDisplay": "已完结"
+      }
+    },
+    "02-武神": {
+      "fp": "03854e5a1f075ad75daea7200f7b2c07e723874e",
+      "data": {
+        "lang": "zh",
+        "rawWordCount": 7281,
+        "wordCount": "约 7 千字",
+        "chapters": [
+          {
+            "title": "引子",
+            "wordCount": "约 463 字"
+          },
+          {
+            "title": "正文",
+            "wordCount": "约 5 千字"
+          },
+          {
+            "title": "数十年后",
+            "wordCount": "约 444 字"
+          },
+          {
+            "title": "三百年后",
+            "wordCount": "约 273 字"
+          },
+          {
+            "title": "五百年后",
+            "wordCount": "约 689 字"
+          },
+          {
+            "title": "语录",
+            "wordCount": "约 347 字"
+          },
+          {
+            "title": "尾声",
+            "wordCount": "约 447 字"
+          }
+        ],
+        "typeDisplay": "原创",
+        "statusDisplay": "已完结"
+      }
+    },
+    "03-玩家01": {
+      "fp": "2e3a5979c18c0bf7cfa389af28b9ee14b9329fdb",
+      "data": {
+        "lang": "zh",
+        "rawWordCount": 11528,
+        "wordCount": "约 12 千字",
+        "chapters": [
+          {
+            "title": "第一幕：播种",
+            "wordCount": "约 3 千字"
+          },
+          {
+            "title": "第二幕：倒车",
+            "wordCount": "约 6 千字"
+          },
+          {
+            "title": "第三幕：史诗",
+            "wordCount": "约 3 千字"
+          }
+        ],
+        "typeDisplay": "原创",
+        "statusDisplay": "已完结"
+      }
+    },
+    "04-星矢": {
+      "fp": "38c5142da5b78f9ce76c9e9e2ab41a3b4c50bda5",
+      "data": {
+        "lang": "zh",
+        "rawWordCount": 15781,
+        "wordCount": "约 16 千字",
+        "chapters": [
+          {
+            "title": "完整修改版（全部采纳）",
+            "wordCount": "约 41 字"
+          },
+          {
+            "title": "一、信号",
+            "wordCount": "约 716 字"
+          },
+          {
+            "title": "二、第一次出手",
+            "wordCount": "约 351 字"
+          },
+          {
+            "title": "三、盲区",
+            "wordCount": "约 193 字"
+          },
+          {
+            "title": "四、肉体",
+            "wordCount": "约 178 字"
+          },
+          {
+            "title": "五、图书馆",
+            "wordCount": "约 464 字"
+          },
+          {
+            "title": "六、夜行",
+            "wordCount": "约 289 字"
+          },
+          {
+            "title": "七、第一次验证",
+            "wordCount": "约 264 字"
+          },
+          {
+            "title": "八、第一次失败",
+            "wordCount": "约 326 字"
+          },
+          {
+            "title": "九、理",
+            "wordCount": "约 191 字"
+          },
+          {
+            "title": "十、旧书",
+            "wordCount": "约 200 字"
+          },
+          {
+            "title": "十一、伪音速拳",
+            "wordCount": "约 130 字"
+          },
+          {
+            "title": "十二、工具",
+            "wordCount": "约 61 字"
+          },
+          {
+            "title": "十三、维保系统",
+            "wordCount": "约 289 字"
+          },
+          {
+            "title": "十四、极限",
+            "wordCount": "约 251 字"
+          },
+          {
+            "title": "十五、离去",
+            "wordCount": "约 308 字"
+          },
+          {
+            "title": "十六、十九岁",
+            "wordCount": "约 766 字"
+          },
+          {
+            "title": "一、燃料",
+            "wordCount": "约 213 字"
+          },
+          {
+            "title": "二、共享实验室",
+            "wordCount": "约 546 字"
+          },
+          {
+            "title": "三、旁观者",
+            "wordCount": "约 392 字"
+          },
+          {
+            "title": "四、第一次破防",
+            "wordCount": "约 449 字"
+          },
+          {
+            "title": "五、身体的警告",
+            "wordCount": "约 398 字"
+          },
+          {
+            "title": "六、Luciferin-1",
+            "wordCount": "约 263 字"
+          },
+          {
+            "title": "七、战衣迭代",
+            "wordCount": "约 305 字"
+          },
+          {
+            "title": "八、理论突破",
+            "wordCount": "约 346 字"
+          },
+          {
+            "title": "九、硬件瓶颈",
+            "wordCount": "约 346 字"
+          },
+          {
+            "title": "十、决断",
+            "wordCount": "约 401 字"
+          },
+          {
+            "title": "十一、自残",
+            "wordCount": "约 412 字"
+          },
+          {
+            "title": "十二、迭代",
+            "wordCount": "约 149 字"
+          },
+          {
+            "title": "十三、最后一步",
+            "wordCount": "约 167 字"
+          },
+          {
+            "title": "十四、二十五岁",
+            "wordCount": "约 281 字"
+          },
+          {
+            "title": "一、临界点",
+            "wordCount": "约 428 字"
+          },
+          {
+            "title": "二、西伯利亚",
+            "wordCount": "约 255 字"
+          },
+          {
+            "title": "三、撒哈拉",
+            "wordCount": "约 266 字"
+          },
+          {
+            "title": "四、赤道深海",
+            "wordCount": "约 150 字"
+          },
+          {
+            "title": "五、人间之神",
+            "wordCount": "约 390 字"
+          },
+          {
+            "title": "六、裂缝",
+            "wordCount": "约 426 字"
+          },
+          {
+            "title": "七、最后的测量",
+            "wordCount": "约 219 字"
+          },
+          {
+            "title": "八、报废倒计时",
+            "wordCount": "约 652 字"
+          },
+          {
+            "title": "一、异常的涟漪",
+            "wordCount": "约 389 字"
+          },
+          {
+            "title": "二、神的逆行",
+            "wordCount": "约 214 字"
+          },
+          {
+            "title": "三、俺は星矢",
+            "wordCount": "约 1 千字"
+          },
+          {
+            "title": "四、归于群星",
+            "wordCount": "约 1 千字"
+          }
+        ],
+        "typeDisplay": "二创",
+        "statusDisplay": "已完结"
+      }
+    },
+    "05-乔尔乔斯": {
+      "fp": "08883f1862ade9922fb235a9c01235d283e5517b",
+      "data": {
+        "lang": "zh",
+        "rawWordCount": 89735,
+        "wordCount": "约 90 千字",
+        "chapters": [
+          {
+            "title": "序幕：异象",
+            "wordCount": "约 2 千字"
+          },
+          {
+            "title": "第一节：重量",
+            "wordCount": "约 3 千字"
+          },
+          {
+            "title": "第二节：共谋时刻",
+            "wordCount": "约 3 千字"
+          },
+          {
+            "title": "第三节：秘密的诞生",
+            "wordCount": "约 3 千字"
+          },
+          {
+            "title": "第四节：血色巡回",
+            "wordCount": "约 6 千字"
+          },
+          {
+            "title": "第一节：封控",
+            "wordCount": "约 5 千字"
+          },
+          {
+            "title": "第二节：微光",
+            "wordCount": "约 7 千字"
+          },
+          {
+            "title": "第三节：裂缝",
+            "wordCount": "约 5 千字"
+          },
+          {
+            "title": "第四节：曝光",
+            "wordCount": "约 4 千字"
+          },
+          {
+            "title": "第五节：回归",
+            "wordCount": "约 5 千字"
+          },
+          {
+            "title": "破圈（第二幕与第三幕之间）",
+            "wordCount": "约 552 字"
+          },
+          {
+            "title": "第一节：异化",
+            "wordCount": "约 6 千字"
+          },
+          {
+            "title": "第二节：加冕与在场",
+            "wordCount": "约 7 千字"
+          },
+          {
+            "title": "第三节：溢价",
+            "wordCount": "约 6 千字"
+          },
+          {
+            "title": "第四节：沉默裂缝",
+            "wordCount": "约 2 千字"
+          },
+          {
+            "title": "第五节：预谋",
+            "wordCount": "约 3 千字"
+          },
+          {
+            "title": "第一节：倒计时",
+            "wordCount": "约 4 千字"
+          },
+          {
+            "title": "第二节：后台",
+            "wordCount": "约 5 千字"
+          },
+          {
+            "title": "第三节：真相之夜",
+            "wordCount": "约 6 千字"
+          },
+          {
+            "title": "第四节：余震",
+            "wordCount": "约 7 千字"
+          }
+        ],
+        "typeDisplay": "原创",
+        "statusDisplay": "已完结"
+      }
+    },
+    "06-藤环少年": {
+      "fp": "3110cebb33916db4b2ed2ddc9e721976d573730c",
+      "data": {
+        "lang": "zh",
+        "rawWordCount": 11462,
+        "wordCount": "约 11 千字",
+        "chapters": [
+          {
+            "title": "第一幕 被看见",
+            "wordCount": "约 7 千字"
+          },
+          {
+            "title": "第二幕 如尼的呼唤",
+            "wordCount": "约 2 千字"
+          },
+          {
+            "title": "第三幕 海未带走",
+            "wordCount": "约 2 千字"
+          }
+        ],
+        "typeDisplay": "原创",
+        "statusDisplay": "已完结"
+      }
+    },
+    "07-白天": {
+      "fp": "6805caaf6158ef62c3603decb55154f11d16afe8",
+      "data": {
+        "lang": "zh",
+        "rawWordCount": 37524,
+        "wordCount": "约 38 千字",
+        "chapters": [
+          {
+            "title": "第一部：垢",
+            "wordCount": "约 5 千字"
+          },
+          {
+            "title": "第二部：涌",
+            "wordCount": "约 2 千字"
+          },
+          {
+            "title": "第二部：涌",
+            "wordCount": "约 3 千字"
+          },
+          {
+            "title": "第二部：涌",
+            "wordCount": "约 4 千字"
+          },
+          {
+            "title": "第三部：疯",
+            "wordCount": "约 3 千字"
+          },
+          {
+            "title": "第三部：疯",
+            "wordCount": "约 4 千字"
+          },
+          {
+            "title": "第三部：疯",
+            "wordCount": "约 3 千字"
+          },
+          {
+            "title": "第三部：疯",
+            "wordCount": "约 3 千字"
+          },
+          {
+            "title": "第三部：疯",
+            "wordCount": "约 4 千字"
+          },
+          {
+            "title": "第三部：疯",
+            "wordCount": "约 7 千字"
+          }
+        ],
+        "typeDisplay": "原创",
+        "statusDisplay": "连载中"
+      }
+    }
+  }
+}
